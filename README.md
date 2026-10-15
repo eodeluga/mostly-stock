@@ -2,7 +2,7 @@
 >
 > The ROM was originally hosted on Google Drive, but people keep requesting access, so I'm putting it on GitHub to make it easier to download.
 >
-> Below is the original XDA post from back in the day.
+> Below is the original XDA post from back in the day, and you'll find the actual ROM in the **[GitHub Releases](https://github.com/eodeluga/mostly-stock/releases)** tab.
 >
 > If you're still rocking a Samsung Galaxy S3... enjoy!
 <!-- Inline styles preserve the original forum appearance in compatible Markdown viewers.
